@@ -2,3 +2,5 @@ Lunch the react application like normal
 ie ...\abtest> npm start
 
 I suggest getting GrowthBook DevTool to switch between feature flag
+btw Github is:
+https://github.com/leew2/abtest
