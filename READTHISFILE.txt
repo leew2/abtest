@@ -1,0 +1,4 @@
+Lunch the react application like normal
+ie ...\abtest> npm start
+
+I suggest getting GrowthBook DevTool to switch between feature flag
